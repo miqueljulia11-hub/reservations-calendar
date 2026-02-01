@@ -1,0 +1,9 @@
+{
+  "name": "reservations-calendar",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "ical-generator": "^9.0.0",
+    "node-ical": "^0.20.0"
+  }
+}
